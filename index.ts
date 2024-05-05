@@ -27,4 +27,4 @@ else if (asnwer.operator === "Division"){
     console.log("Please select a valid operator")
 }
 
-console.log('THE END');
+console.log('THE END'); r
